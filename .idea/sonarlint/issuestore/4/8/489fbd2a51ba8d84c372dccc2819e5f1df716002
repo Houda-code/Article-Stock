@@ -1,0 +1,4 @@
+
+‘
+java:S1598"ÔThis file "StockDTO.java" should be located in "com\microservice\Article" directory, not in "C:\Users\Houda\Article-Stock-MS\Article-MS\src\main\java\com.microservice.Article"(Do not use dots in directory names).(ñŒ¥ÇJ$8e67a938-1aed-40fe-a856-61239f6aa54e
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñŒ¥ÇJ$a3bf76df-3966-42d5-b9d2-91e57cd047ce

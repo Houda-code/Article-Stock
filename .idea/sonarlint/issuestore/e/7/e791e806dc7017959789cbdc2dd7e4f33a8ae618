@@ -1,0 +1,4 @@
+
+“
+java:S1598"ÖThis file "ArticleDTO.java" should be located in "com\microservice\Article" directory, not in "C:\Users\Houda\Article-Stock-MS\Article-MS\src\main\java\com.microservice.Article"(Do not use dots in directory names).(ñŒ¥ÇJ$0883085d-4f91-4552-ab24-4c8793d197f0
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñŒ¥ÇJ$4fcc140a-613c-4d16-b943-bec610746479

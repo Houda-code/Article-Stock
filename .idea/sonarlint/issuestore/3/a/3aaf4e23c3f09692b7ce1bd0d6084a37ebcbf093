@@ -1,0 +1,4 @@
+
+˜
+java:S1598"ÛThis file "IArticleService.java" should be located in "com\microservice\Article" directory, not in "C:\Users\Houda\Article-Stock-MS\Article-MS\src\main\java\com.microservice.Article"(Do not use dots in directory names).(ñŒ¥ÇJ$49fcaad5-47aa-4f0b-ad0f-91982572b20e
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñŒ¥ÇJ$c7add326-b4f4-4ccd-aead-6119fbb29937

@@ -1,0 +1,6 @@
+
+š
+java:S1598"İThis file "ArticleServiceIml.java" should be located in "com\microservice\Article" directory, not in "C:\Users\Houda\Article-Stock-MS\Article-MS\src\main\java\com.microservice.Article"(Do not use dots in directory names).(ñŒ¥ÇJ$54ed8f36-01cf-4d1c-8e06-3911e20509c9
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñŒ¥ÇJ$6bd6135f-32d8-4248-8cbd-3e000d74f0c3
+d
+java:S2094"BRemove this empty class, write its code or make it an "interface".(Øğóøÿÿÿÿ8Ô‚ñúŒ2
